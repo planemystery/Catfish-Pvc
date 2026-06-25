@@ -3,10 +3,10 @@
 
 # Afternoon — Model
 
-- **Input ที่ใช้:** _______________
-- **Classes:** _______________
-- **จำนวนตัวอย่าง/class:** _______________
-- **วิธีเชื่อมเข้า Edge Impulse:** [ ] กล้อง/ไมค์ (`edge-impulse-linux`)  [ ] Modulino (`data-forwarder`)
+- **Input ที่ใช้:** USB Cam
+- **Classes:** 1
+- **จำนวนตัวอย่าง/class:** 24
+- **วิธีเชื่อมเข้า Edge Impulse:** [/] กล้อง/ไมค์ (`edge-impulse-linux`)  [ ] Modulino (`data-forwarder`)
 
 ## V1
 - Accuracy (ใน Studio): ____
@@ -20,7 +20,7 @@
 - Accuracy V2: ____  | ดีขึ้น/แย่ลงตรงไหน: _______________
 
 ## รันบนบอร์ด
-- [ ] วิธีรัน: [ ] กล้อง/ไมค์ → `edge-impulse-linux-runner` (Web UI :4912)  [ ] Modulino → Arduino library ในสเก็ตช์
+- [/] วิธีรัน: [/] กล้อง/ไมค์ → `edge-impulse-linux-runner` (Web UI :4912)  [ ] Modulino → Arduino library ในสเก็ตช์
 - [ ] ป้อน input จริงแล้ว prediction เปลี่ยนตาม (inferencing time: ____ ms)
 - คลิป/รูปตอนรัน: ![run](../assets/run.jpg)
 
