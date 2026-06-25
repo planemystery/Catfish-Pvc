@@ -11,7 +11,7 @@
 | Input | ต่อผ่าน? | หลักฐาน |
 |---|---|---|
 | 1. Modulino sensor (Qwiic) | [/] | ![sensor](https://github.com/planemystery/Catfish-Pvc/blob/42f0c12602f63d6dd4f3627ce464cb54f8e102e2/team-template/assets/Screenshot%202026-06-25%20152912.png) |
-| 2. USB Webcam | [/] | ![camera](../assets/camera.jpg) |
+| 2. USB Webcam | [/] | ![camera]([../assets/camera.jpg](https://github.com/planemystery/Catfish-Pvc/blob/3cdbcda5e5d87defa6198c8b7d410c6690d44551/team-template/assets/Screenshot%202026-06-25%20160344.png)) |
 | 3. USB Mic | [/] | ![mic](../assets/mic.jpg) |
 
 ## Modulino — ลองกี่ตัว (มี 7 ตัว)
